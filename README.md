@@ -13,7 +13,7 @@ Automatically generate company brochures by extracting meaningful content from a
 - Built with a user-friendly **Gradio interface**.
 - Extracts and compiles relevant web content into professional brochures.
 
-[🔗 View Project Folder](./Website-Brochure-Generator)
+[🔗 View Project Folder](./Website%20Brochure%20Generator)
 
 ---
 
@@ -24,7 +24,7 @@ A custom RAG-based Question & Answer agent for a fictional real estate company.
 - Powered by **Qwen3:4B** via **Ollama** for response generation.
 - Embedding visualization and interactive chat implemented in a Jupyter notebook.
 
-[🔗 View Project Folder](./Horizon-Haven-Realty-RAG)
+[🔗 View Project Folder](./Horizon%20Haven%20Realty%20RAG)
 
 ---
 
